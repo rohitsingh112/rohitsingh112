@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/4c/44/39/4c443992f6106654fc270b3ca708d29e.png)
+![MasterHead](https://media.licdn.com/dms/image/C4D1BAQHK_XcVi1f4MQ/company-background_10000/0/1607639631297/mernstack_cover?e=2147483647&v=beta&t=BTUr0rgiUt_T9cG6E2Cm_IqZONgnIH_VIhRbSeuLBiQ)
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/y6HKvDu42NkAAAAi/technologist-desktop.gif">
